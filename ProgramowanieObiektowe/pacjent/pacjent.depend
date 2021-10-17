@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1572078032 source:d:\programowanieobiektowe\pacjent\main.cpp
+	<iostream>
+	"Pacjent.h"
+
+1572077847 d:\programowanieobiektowe\pacjent\pacjent.h
+
+1572078084 source:d:\programowanieobiektowe\pacjent\pacjent.cpp
+	<iostream>
+	"Pacjent.h"
+
